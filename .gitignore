@@ -1,0 +1,8 @@
+.idea
+build
+**/*.o
+*.o 
+*.a
+venv
+cmake-build-debug
+Project_Default.xml
